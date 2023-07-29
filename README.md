@@ -1,1 +1,1 @@
-# learning_mode_on
+# learning-mode-on
